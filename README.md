@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SpotiApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.7.
@@ -26,3 +27,7 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# MySpotiApp
+It's a little example of Spotify API consumed by an Angular frontend project.
+>>>>>>> 34e9a4d458e5c86249d057d5089098b0f909629f
